@@ -15,11 +15,13 @@ public class Main {
 		System.out.println(repJava);
 		String test = "aaabbbcddeefgg";
 		System.out.println(inversionChaine(test));
+		System.out.println("dff");
 
 	}
 
 	public static int calcul(int a, int b) {
 		return a + b;
+		
 	}
 
 	public static String inversionChaine(String text) {
