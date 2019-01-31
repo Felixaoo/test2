@@ -16,6 +16,7 @@ public class Main {
 		String test = "aaabbbcddeefgg";
 		System.out.println(inversionChaine(test));
 		System.out.println("dff");
+		System.out.println();
 
 	}
 
